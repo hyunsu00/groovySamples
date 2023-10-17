@@ -1,1 +1,2 @@
-print "Hello world!!!!"
+/* groovylint-disable CompileStatic */
+print 'Hello world!!!!'
