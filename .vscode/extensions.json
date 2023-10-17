@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "richardwillis.vscode-gradle-extension-pack",
+        "tabeyti.jenkins-jack",
+        "dave-hagedorn.jenkins-runner"
+    ]
+}
